@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<Library>
+	<Catalog category="Technical books">
+		<book>
+			<ISBN>
+				9781491946008
+			</ISBN>
+			<Title>
+				Fluent Python
+			</Title>
+			<Author>
+				Luciano Ramalho
+			</Author>
+		</book>
+		<book>
+			<ISBN>
+				9781491939369
+			</ISBN>
+			<Title>
+				Think Python
+			</Title>
+			<Author>
+				Allen B. Downey
+			</Author>
+		</book>
+	</Catalog>
+	
+	<Catalog category="Cookery books">
+		<book>
+			<ISBN>
+				9780718157807
+			</ISBN>
+			<Title>
+				Jamie's 15-Minute Meals
+			</Title>
+			<Author>
+				Jamie Oliver
+			</Author>
+		</book>
+		<book>
+			<ISBN>
+				9780718154776
+			</ISBN>
+			<Title>
+				Jamie's 30-Minute Meals
+			</Title>
+			<Author>
+				Jamie Olivier
+			</Author>
+		</book>
+	</Catalog>
+</Library>
